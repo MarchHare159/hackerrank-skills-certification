@@ -1,0 +1,27 @@
+<style>
+    p {
+        border: medium solid;
+    }
+    p {
+        color: green;
+    }
+    body {
+        color: black;
+    }
+</style>
+
+<body>
+    <p>I have won an <em>Oscar</em></p>
+</body>
+
+Pick ONE OR MORE options
+
+    -There will be only one border around the sentence.
+
+    -There will be one border surrounding the text content inside the <p> tag and one surrounding the text inside the <em> tag due to parent-child inheritance.
+
+    -The text inside <em> will take the root element's font color `black`.
+
+    -The text inside <em> will take the parent element's font color `green`.
+
+    -The color of the border becomes `green`.

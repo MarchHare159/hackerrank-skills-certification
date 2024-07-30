@@ -1,0 +1,11 @@
+How do you hide the "placeholder" text of an <input>field?
+
+Pick ONE OR MORE options
+
+    input::placeholder { visibility: clip; }
+
+    input::placeholder { color: transparent; }
+
+    input::placeholder { display: none; }
+
+    input::placeholder { visibility: hidden; }

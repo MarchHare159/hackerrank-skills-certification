@@ -1,0 +1,2 @@
+1. There will be only one border around the sentence.
+2. The text inside <em> will take the parent element's font color `green`.

@@ -1,0 +1,2 @@
+input::placeholder { color: transparent; }
+input::placeholder { visibility: hidden; }

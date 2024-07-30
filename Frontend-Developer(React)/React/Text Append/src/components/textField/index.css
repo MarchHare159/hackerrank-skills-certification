@@ -1,0 +1,13 @@
+.textfield {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+input{
+    width: 350px;
+}
+
+label {
+    font-size: 14px;
+}

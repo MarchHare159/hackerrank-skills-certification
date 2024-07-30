@@ -1,0 +1,3 @@
+The box model consists of the margins, borders, padding, height, and width of the element.
+
+The total element width is calculated as the summation of width, left padding, right padding, left border, right border, left margin, and right margin.
